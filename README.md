@@ -34,13 +34,6 @@ I am a **Big Artificial intelligence  and Data Science Engineer** specializing i
 
 ---
 
-### 🔥 Skills Representation
-
-![Skill Chart]()
-
-
----
-
 ## 👀 Interests
 
 - Building robust and scalable **Big Data pipelines**.
