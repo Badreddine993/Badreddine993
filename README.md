@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Badr
 
-I am a **Artificial intelligence  and Data Science Engineer** specializing in designing scalable data systems, implementing machine learning solutions, and extracting meaningful insights from complex datasets. Passionate about leveraging technology to solve real-world problems, I thrive on building innovative data pipelines, AI-driven systems, and robust analytics platforms.
+"With experience in industrial engineering and a passion for new technologies, I aim to deepen my knowledge by applying advanced solutions to optimize industrial processes. My objective is to actively contribute to the digital transformation of the industry by leveraging the synergies between AI, Big Data, and mechanical and energy systems
 
 ---
 
