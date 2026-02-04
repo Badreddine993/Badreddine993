@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Badr
+# Hi, I’m Badr
 
 "With experience in industrial engineering and a passion for new technologies, I aim to deepen my knowledge by applying advanced solutions to optimize industrial processes. My objective is to actively contribute to the digital transformation of the industry by leveraging the synergies between AI, Big Data, and mechanical and energy systems
 
 ---
 
-## 📊 Skills at a Glance
+## Skills at a Glance
 
 ### 🛠 Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 
-### 🌟 Tools & Frameworks:
+###  Tools & Frameworks:
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
@@ -34,7 +34,7 @@
 
 ---
 
-## 👀 Interests
+## Interests
 
 - Building robust and scalable **Big Data pipelines**.
 - Developing **AI and ML solutions** for complex problems.
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced distributed systems for **Big Data pipelines**.
 - **Kubernetes** for managing Dockerized applications.
@@ -51,7 +51,7 @@
 
 ---
 
-## 💻 Recent Projects
+##  Recent Projects
 
 - **Real-Time Sentiment Analysis System**:
    - Built a scalable pipeline using **Apache Kafka** and **Apache Spark** for real-time sentiment analysis of social media feeds.
@@ -66,7 +66,7 @@
 
 ---
 
-## 💞️ Collaboration
+## Collaboration
 
 I’m looking to collaborate on:
 - Large-scale **Big Data** and **Machine Learning** projects.
@@ -75,7 +75,7 @@ I’m looking to collaborate on:
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square) [badreddine993@example.com](mailto:badreddine993@example.com)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) [Boukfa Badreddine](https://www.linkedin.com/in/badreddine993/)
@@ -83,12 +83,5 @@ I’m looking to collaborate on:
 - ![Website](https://img.shields.io/badge/Website-4285F4?logo=googlechrome&logoColor=white&style=flat-square) [Visit My Website](https://badrvlog.pythonanywhere.com)
 
 
----
 
-## ⚡ Fun Fact
 
-When I’m not working with data, I enjoy experimenting with **Unity** to digitalize robotics, designing **VR environments**, and pushing my limits at the gym!
-
----
-
-✨ Let's unlock the power of data together! ✨
